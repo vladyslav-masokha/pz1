@@ -72,7 +72,7 @@ app/
 ### 1\. Головний екран (Сторінка 1)
 
 Екран "Привіт, Android\!" з ініціалізованим `ViewPager2`.
-![Скріншот головного екрану](images/screen1.png)
+![Скріншот головного екрану](https://github.com/vladyslav-masokha/pz1/blob/3280d65863c285846eac7f8f0599036f176f78ae/images/screen1.jpg)
 
 ### 2\. Свайпові екрани (Сторінка 2 та 3)
 
