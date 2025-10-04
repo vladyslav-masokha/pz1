@@ -79,10 +79,10 @@ app/
 Демонстрація переходу між сторінками.
 
 **Сторінка 2:** "Тут завдання"
-![Скріншот другого екрану](images/screen2.png)
+![Скріншот другого екрану](https://github.com/vladyslav-masokha/pz1/blob/e2b33dfe14b0f2d57dccdca63df340adaf18da72/images/screen2.jpg)
 
 **Сторінка 3:** "Свайп ліворуч/праворуч"
-![Скріншот третього екрану](images/screen3.png)
+![Скріншот третього екрану](https://github.com/vladyslav-masokha/pz1/blob/e2b33dfe14b0f2d57dccdca63df340adaf18da72/images/screen3.jpg)
 
 -----
 
